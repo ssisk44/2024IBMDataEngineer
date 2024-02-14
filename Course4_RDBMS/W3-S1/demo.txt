@@ -1,0 +1,1 @@
+wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0110EN-SkillsNetwork/datasets/sakila/sakila_mysql_dump.sql -O sakilla_mysql_dump.sql

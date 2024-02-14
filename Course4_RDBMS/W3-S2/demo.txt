@@ -1,0 +1,10 @@
+psql -U postgres -W
+\connect sakila;
+\include sakila_pgsql_dump.sql;
+\connect sakila;
+\dt
+\d store;
+SELECT * FROM store;
+\q
+pg_dump --username=postgres --host=localhost --password --dbname=sakila --table=store --format=plain > sakila_store_pgsql_dump.sql
+cat sakila_store_pgsql_dump.sql

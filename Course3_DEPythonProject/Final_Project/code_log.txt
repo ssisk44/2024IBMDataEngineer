@@ -1,0 +1,17 @@
+n<2024-Feb-10-23:31:59> : <Preliminaries complete. Initiating ETL process>
+<2024-Feb-10-23:32:01> : <Data extraction complete. Initiating Transformation process>
+<2024-Feb-10-23:32:01> : <Data transformation complete. Initiating Loading process>
+<2024-Feb-10-23:32:01> : <Data saved to CSV file>
+<2024-Feb-10-23:32:01> : <SQL Connection initiated>
+<2024-Feb-10-23:32:01> : <Data loaded to Database as a table, Executing queries>
+<2024-Feb-10-23:32:01> : <Process Complete>
+<2024-Feb-10-23:32:01> : <Server Connection closed>
+<2024-Feb-10-23:37:31> : <Preliminaries complete. Initiating ETL process>
+<2024-Feb-10-23:40:24> : <Preliminaries complete. Initiating ETL process>
+<2024-Feb-10-23:40:25> : <Data extraction complete. Initiating Transformation process>
+<2024-Feb-10-23:40:25> : <Data transformation complete. Initiating Loading process>
+<2024-Feb-10-23:40:25> : <Data saved to CSV file>
+<2024-Feb-10-23:40:25> : <SQL Connection initiated>
+<2024-Feb-10-23:40:25> : <Data loaded to Database as a table, Executing queries>
+<2024-Feb-10-23:40:25> : <Process Complete>
+<2024-Feb-10-23:40:25> : <Server Connection closed>
